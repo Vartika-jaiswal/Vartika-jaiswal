@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jaiswalvartika664@gmail.com**
 
-- ⚡ Fun fact **I think i'm funny!!**
+- ⚡ Fun fact **I think i've a great sense of humour!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
