@@ -1,4 +1,4 @@
-![02]https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/robot-code-robotics-robotic-programming-language.png
+![02](https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/robot-code-robotics-robotic-programming-language.png)
 <h1 align="center">Hi 👋, I'm Vartika jaiswal</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
