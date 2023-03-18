@@ -1,4 +1,4 @@
-![02](https://user-images.githubusercontent.com/98648970/166180404-66f8aa20-eb8d-4234-872f-5cca67b0ccf7.jpg)
+![02]https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/robot-code-robotics-robotic-programming-language.png
 <h1 align="center">Hi 👋, I'm Vartika jaiswal</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
